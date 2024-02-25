@@ -31,10 +31,10 @@ const Home = () => {
             between Cairo and Alexandria, ensuring a smooth start to your
             Egyptian adventure.
           </p>
-          <p>
-            Rest assured, our drivers are dedicated to ensuring the safest local
-            travels within Cairo and Alexandria. With Kemet Transportation,
-            you'll experience the utmost in comfort and security.
+       <p>
+            Rest assured, your safety is our priority. For your peace of mind,
+            we equip all our vehicles with state-of-the-art cameras, providing
+            additional security during your travels within Cairo and Alexandria.
           </p>
           <p>
             Interested in exploring more? We also offer customizable one-day
