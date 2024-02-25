@@ -83,7 +83,10 @@ const Layout = () => {
                   Home
                 </Link>
               </li>
-
+              <li className="nav-item">
+                <Link className="nav-link" to="/aboutus">
+                  About Us
+                </Link>
               <li className="nav-item dropdown">
                 <Link
                   className="nav-link dropdown-toggle"
